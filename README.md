@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Dhia-zorai/Newsletter-sign-up-form)
-- Live Site URL: [GitHub Pages](https://github.com/Dhia-zorai/Newsletter-sign-up-form)
+- Live Site URL: [GitHub Pages](https://dhia-zorai.github.io/Newsletter-sign-up-form)
 
 ## My process
 
@@ -77,5 +77,5 @@ Through this project, I have learned:
 
 ## Author
 
-- Website - [Dhia Zorai](https://github.com/Dhia-zorai/My-Portfolio)
+- Website - [Dhia Zorai](https://dhia-zorai.github.io/My-Portfolio/)
 - Frontend Mentor - [@Dhia-zorai](https://www.frontendmentor.io/profile/Dhia-zorai)
