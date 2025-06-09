@@ -220,7 +220,7 @@ strong {
     font-size: clamp(3.5rem, 3.456rem + 0.188vw, 3.625rem);
   }
   form {
-    width: 45%;
+    width: 50%;
   }
   .image-desktop {
     display: flex;
